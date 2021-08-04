@@ -1,0 +1,19 @@
+.btn {
+    background-color: goldenrod;
+    border: 2px solid goldenrod;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color:white;
+    color: goldenrod;
+}
+
+.btn:disabled {
+    background-color:goldenrod;
+    color: white;
+    opacity: .2;
+}

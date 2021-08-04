@@ -1,0 +1,10 @@
+.coin {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.coin-img {
+    height: 100%;
+}
